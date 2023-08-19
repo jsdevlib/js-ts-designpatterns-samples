@@ -1,2 +1,2 @@
-# js-ts-designpatterns-samples
-Samples applying Design Patterns with TypeScript
+# BeyondNet.Templates.TsNode
+A basic template for nodejs using typescript. 
